@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Resume"
+  - title: "Professional Resume"
     url: /files/ArashDehghanResume.pdf
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Academic CV"
+    url: /files/ArashDehghanCV.pdf
 
   - title: "Interviews"
     url: /talks/    
