@@ -6,11 +6,11 @@ main:
   - title: "Academic CV"
     url: /files/ArashDehghanCV.pdf
 
-  - title: "Interviews"
-    url: /talks/
+  # - title: "Interviews"
+    # url: /talks/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
